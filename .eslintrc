@@ -1,0 +1,29 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "document": false,
+    "navigator": false,
+    "window": false,
+    "FileReader": true,
+    "alert": true,
+    "jQuery": true,
+    "$": true,
+    "XMLHttpRequest": true,
+    "contrast": true,
+    "angular": true,
+    "sessionStorage": true,
+    "localStorage": true,
+    "location": true,
+    "CKEDITOR": true,
+    "MediumEditor": true,
+    "MediumButton": true,
+    "Bloodhound": true,
+    "Mustache": true,
+    "Handlebars": true,
+    "FormData": true,
+    "_etmc": true,
+    "ga": true,
+    "Prism": true,
+    "Vivus": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rd_linters",
+  "version": "1.0.0",
+  "description": "SASS and JavaScript linters used in our projects.",
+  "repository": "git@github.com:SolDes/Linters.git",
+  "author": "Marketing Cloud Solutions Engineering R+D",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "sass-lint": "^1.12.1"
+  }
+}
