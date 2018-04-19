@@ -6,7 +6,7 @@
   "author": "Marketing Cloud Solutions Engineering R+D",
   "license": "MIT",
   "private": true,
-  "devDependencies": {
+  "dependencies": {
     "eslint-config-airbnb": "^16.1.0",
     "sass-lint": "^1.12.1"
   }
