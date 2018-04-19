@@ -8,6 +8,6 @@
   "private": true,
   "dependencies": {
     "eslint-config-rd": "git+https://github.com/SolDes/eslint-config-rd.git",
-    "sass-lint": "^1.12.1"
+    "sass-lint": "git+https://github.com/sasstools/sass-lint.git"
   }
 }
