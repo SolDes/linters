@@ -8,6 +8,7 @@
   "private": true,
   "dependencies": {
     "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-jsdoc": "^3.6.3",
     "sass-lint": "^1.12.1"
   }
 }
