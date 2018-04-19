@@ -1,5 +1,5 @@
 {
-  "name": "rd_linters",
+  "name": "rd-linters",
   "version": "1.0.0",
   "description": "SASS and JavaScript linters used in our projects.",
   "repository": "git@github.com:SolDes/linters.git",
