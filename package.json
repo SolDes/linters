@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "eslint-config-rd": "git+https://github.com/SolDes/eslint-config-rd.git",
+    "eslint-config-rd": "git+https://github.com/SolDes/eslint-config-rd.git#1.0.1",
     "sass-lint": "git+https://github.com/sasstools/sass-lint.git"
   }
 }
