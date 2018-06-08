@@ -8,6 +8,6 @@
   "private": true,
   "dependencies": {
     "eslint-config-rd": "SolDes/eslint-config-rd#cbbbc2f",
-    "sass-lint-fix": "^1.12.1",
+    "sass-lint-fix": "^1.12.1"
   }
 }
