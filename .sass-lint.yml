@@ -43,3 +43,12 @@ rules:
     - style: double
   trailing-semicolon: 1
   variable-name-format: 1
+resolvers:
+  property-sort-order: 1
+  attribute-quotes: 1
+  border-zero: 1
+  indentation: 1
+syntax:
+  include:
+    - scss
+    - sass
