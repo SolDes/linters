@@ -7,23 +7,27 @@ rules:
   bem-depth: 1
   border-zero:
     - 1
-    - convention: zero
+    -
+      convention: zero
   brace-style:
     - 1
     - allow-single-line: false
   class-name-format:
     - 1
-    - convention: strictbem
+    -
+      convention: strictbem
   empty-line-between-blocks: 1
   extends-before-declarations: 0
   extends-before-mixins: 0
   function-name-format: 1
   id-name-format:
     - 1
-    - convention: hyphenatedbem
+    -
+      convention: hyphenatedbem
   indentation:
     - 2
-    - size: 2
+    -
+      size: 2
   leading-zero: 0
   mixin-name-format: 1
   mixins-before-declarations: 0
@@ -35,11 +39,13 @@ rules:
   single-line-per-selector: 1
   placeholder-name-format:
     - 1
-    - convention: hyphenatedbem
+    -
+      convention: hyphenatedbem
   property-sort-order: 0
   quotes:
     - 1
-    - style: double
+    -
+      style: double
   trailing-semicolon: 1
   variable-name-format: 1
 resolvers:
