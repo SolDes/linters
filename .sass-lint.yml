@@ -37,6 +37,10 @@ rules:
   no-qualifying-elements: 0
   one-declaration-per-line: 1
   single-line-per-selector: 1
+  space-before-brace:
+    - 1
+    - 
+      include: true
   placeholder-name-format:
     - 1
     -
