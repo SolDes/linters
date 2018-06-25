@@ -13,8 +13,7 @@ rules:
     - allow-single-line: false
   class-name-format:
     - 1
-    - convention: ^(?!js-).*
-      convention-explanation: should not be written in the form js-*
+    - convention: strictbem
   empty-line-between-blocks: 1
   extends-before-declarations: 0
   extends-before-mixins: 0
