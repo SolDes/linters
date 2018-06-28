@@ -8,7 +8,7 @@ rules:
   border-zero:
     - 1
     -
-      convention: zero
+      convention: '0'
   brace-style:
     - 1
     - allow-single-line: false
@@ -45,7 +45,7 @@ rules:
     - 1
     -
       convention: hyphenatedbem
-  property-sort-order: 0
+  property-sort-order: 1
   quotes:
     - 1
     -
