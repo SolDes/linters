@@ -1,13 +1,13 @@
 {
   "name": "rd-linters",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "SASS and JavaScript linters used in our projects.",
   "repository": "git@github.com:SolDes/linters.git",
   "author": "Marketing Cloud Solutions Engineering R+D",
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "eslint-config-rd": "SolDes/eslint-config-rd#dd5933d",
+    "eslint-config-rd": "SolDes/eslint-config-rd#2b0720b",
     "sass-lint-auto-fix": "^0.11.0"
   }
 }
