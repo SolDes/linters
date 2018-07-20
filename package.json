@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "eslint-config-rd": "SolDes/eslint-config-rd#2b0720b",
+    "eslint-config-rd": "SolDes/eslint-config-rd#c7b3875",
     "sass-lint-auto-fix": "^0.11.0"
   }
 }
