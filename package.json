@@ -1,11 +1,11 @@
 {
   "name": "rd-linters",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "description": "Linters used in our projects.",
   "repository": "git@github.com:SolDes/linters.git",
   "author": "Marketing Cloud Solutions Engineering R+D",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-rd": "^0.0.20"
+    "eslint-config-rd": "^0.0.21"
   }
 }
