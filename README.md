@@ -10,7 +10,7 @@ Based on https://github.com/airbnb/javascript/ and https://github.com/airbnb/css
 yarn add -D rd-linters
 ```
 
-2. In your project, add a `.eslintrc` file with the following content:
+2. In your node project, add a `.eslintrc` file with the following content:
 
 ```
 {
