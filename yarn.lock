@@ -1389,10 +1389,10 @@ eslint-config-rd-vue@^1.0.0:
     eslint-plugin-vue "^5.1.0"
     webpack "^4.29.0"
 
-eslint-config-rd@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/eslint-config-rd/-/eslint-config-rd-1.0.3.tgz#644f6000de3724604a78378bdf0ca5033a834c83"
-  integrity sha512-avofZdkj6gMeXIraE5uhmCcIV9swJMI40HEYnnrL3DUG8ToXLDwau+7MS7l+ZsXKd0bfNgsK07bZ9zH1jfuohA==
+eslint-config-rd@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/eslint-config-rd/-/eslint-config-rd-1.0.4.tgz#b76af0ac05e79f3eb0aa6355593d5bdb5e439d38"
+  integrity sha512-w7+RLMbKLEX8i3DYKtA/bzz01aCmIUMVLJaFLgOvwy5dLLv4qEDmF3kmrUagFxqvMmmjPID0niqggm74MAuryg==
   dependencies:
     eslint "^5.12.1"
     eslint-config-airbnb-base "^13.1.0"
