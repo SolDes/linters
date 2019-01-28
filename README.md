@@ -18,7 +18,15 @@ yarn add -D rd-linters
 }
 ```
 
-3. In your project, add a `.stylelintrc` file with the following content:
+3. In your VueJS project, add a `.eslintrc` file with the following content:
+
+```
+{
+  "extends": "rd-vue"
+}
+```
+
+4. In your project, add a `.stylelintrc` file with the following content:
 
 ```
 {
@@ -26,13 +34,13 @@ yarn add -D rd-linters
 }
 ```
 
-4. Run the following command from your project root
+5. Run the following command from your project root
 
 ```
 cp ./node_modules/rd-linters/{.editorconfig,.prettierignore,.prettierrc.js} ./
 ```
 
-5. Install the following VSCode extensions:
+6. Install the following VSCode extensions:
 
 ```
 ext install eslint
