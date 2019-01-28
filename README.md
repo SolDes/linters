@@ -18,23 +18,26 @@ yarn add -D rd-linters
 }
 ```
 
-3. Runn the following command from your project root
+3. In your project, add a `.stylelintrc` file with the following content:
+
+```
+{
+  "extends": "stylelint-config-rd"
+}
+```
+
+4. Run the following command from your project root
 
 ```
 cp ./node_modules/rd-linters/{.editorconfig,.prettierignore,.prettierrc.js} ./
 ```
 
-4. Install the following VSCode extensions:
+5. Install the following VSCode extensions:
 
 ```
 ext install eslint
-ext install prettier-vscode
+ext install stylelint
+ext install prettier-now
 ```
 
 > Note: You may have to restart VSCode in order for the changes to take effect
-
-## VSCode Plugins
-
-- [Sass Lint](https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
