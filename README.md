@@ -37,7 +37,7 @@ yarn add -D rd-linters
 5. Run the following command from your project root
 
 ```
-cp ./node_modules/rd-linters/{.editorconfig,.prettierignore,.prettierrc.js} ./
+cp ./node_modules/rd-linters/.editorconfig ./
 ```
 
 6. Install the following VSCode extensions:
@@ -45,7 +45,6 @@ cp ./node_modules/rd-linters/{.editorconfig,.prettierignore,.prettierrc.js} ./
 ```
 ext install eslint
 ext install stylelint
-ext install prettier-now
 ```
 
 > Note: You may have to restart VSCode in order for the changes to take effect
