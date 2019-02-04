@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "eslint-config-rd": "^1.0.6",
-    "eslint-config-rd-vue": "^1.0.3",
+    "eslint-config-rd-vue": "^1.0.4",
     "stylelint-config-rd": "^1.0.2"
   }
 }
