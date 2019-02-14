@@ -34,10 +34,11 @@ yarn add -D rd-linters
 }
 ```
 
-5. Run the following command from your project root
+5. Run the following commands from your project root
 
 ```
 cp ./node_modules/rd-linters/.editorconfig ./
+cp ./node_modules/rd-linters/.prettierrc ./
 ```
 
 6. Install the following VSCode extensions:
