@@ -1,6 +1,6 @@
 {
   "name": "rd-linters",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Linters used in our projects.",
   "repository": "git@github.com:SolDes/linters.git",
   "author": "Marketing Cloud Solutions Engineering R+D",
