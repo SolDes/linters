@@ -5,9 +5,8 @@ Based on https://github.com/airbnb/javascript/ and https://github.com/airbnb/css
 ## Installation
 
 1. Issue the following command:
-
 ```
-yarn add -D rd-linters
+npx install-peerdeps --dev rd-linters
 ```
 
 2. In your node project, add a `.eslintrc` file with the following content:
